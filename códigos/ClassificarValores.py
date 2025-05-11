@@ -1,3 +1,0 @@
-v1 = [float(input("Valor um a ser comparado: ")),float(input("Valor dois a ser comparado: "))]
-print("A ordem crescente desses valores é:", sorted(v1))
-#aqui deu pra usar lista (sei q a ideia era usar if pra saber, mas assim fica mais legal e tb da pra colocar mais números se necessário[tb sei q o sorted() é uma facilidade absurda do python e em qualquer outra linguagem eu teria que fazer um algoritimo de ordenação pra substituir essa uma função do python])
